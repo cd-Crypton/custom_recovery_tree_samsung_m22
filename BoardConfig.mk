@@ -116,3 +116,6 @@ TW_INCLUDE_LIBRESETPROP := true
 TW_BRIGHTNESS_PATH := "/sys/class/leds/lcd-backlight/brightness"
 TW_MAX_BRIGHTNESS := 2047
 TW_DEFAULT_BRIGHTNESS := 900
+
+# Version/Maintainer
+TW_DEVICE_VERSION := crypton
